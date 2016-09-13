@@ -1,0 +1,124 @@
+@charset "utf-8";
+
+/*公用模块*/
+.hr {
+  height: .3rem;
+  background: #d7ecf7;
+}
+.list {
+  position: relative;
+  width: 9.375rem;
+  margin: 0 auto;
+
+  &_item {
+    float: left;
+    width: 4.5rem;
+    /*height: 3.1rem;*/
+    margin: 0 .3rem .46rem 0;
+
+    &Img {
+      width: 4.5rem;
+      height:3.1rem;
+      margin-bottom: .28rem;
+      border: 1px solid #e5e5e5;
+    }
+
+    &Title {
+      height: 1.15rem;
+      overflow: hidden;
+      color: #000;
+    }
+
+    &Info {
+      color: #999;
+    }
+
+    &Btn {
+      display: block;
+      width: 3.125rem;
+      height: .94rem;
+      margin: 0 auto;
+      line-height: .94rem;
+      text-align: center;
+      background: #fc5359;
+      border-radius: 8px;
+      color: #fff;
+
+      &_over {
+        background: #bbb;
+      }
+    }
+
+    &:nth-child(2n) {
+      margin-right: 0;
+    }
+  }
+}
+
+.area {
+
+  &_title {
+    height: 1.25rem;
+    width: 100%;
+    color: #fff;
+    text-align: center;
+    line-height: 1.25rem;
+    background: #2a2a67;
+  }
+
+  &_alert {
+    height: 1.56rem;
+    text-align: center;
+    line-height: 1.56rem;
+    color: #2a2a67;
+
+    span {
+      display: inline-block;
+      width: .52rem;
+      height: .52rem;
+      border-radius: 50%;
+      background: #fc5359;
+      color: #fff;
+      text-align: center;
+      line-height:.52rem;
+    }
+  }
+}
+
+/*banner*/
+.banner {
+  img {
+    width:100%;
+  }
+}
+
+/*nav*/
+.nav {
+  display: flex;
+  height: 1.25rem;
+  width: 100%;
+  margin-bottom: .3rem;
+
+  &_item {
+    flex: 1;
+    text-align: center;
+    line-height:1.25rem;
+    background: #2a2a67;
+
+    a {
+      color: #fff;
+    }
+    &_active {
+      background: #fc5359;
+    }
+  }
+}
+
+/*糯米推广位*/
+
+/*课程区*/
+.course {
+  .list_itemTitle {
+    text-align: center;
+  }
+}
