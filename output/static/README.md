@@ -17,9 +17,3 @@
 * font-size根据设计稿的情况，固定为big、middle、small三类字体，根据data-dpr单独设置样式来控制各个模块的字体大小。
 * LESS框架直接应用webstorm编译。
 
-####Fis3
-> * 将项目发布到指定目录
-  * 默认文件的配置
-  * png/css/js 添加md5
-  * css/js 资源压缩合并打包
-  * 预览及调试
