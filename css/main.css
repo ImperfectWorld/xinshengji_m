@@ -1,4 +1,13 @@
 @charset "utf-8";
+.fontBig {
+  font-size: 16px;
+}
+[data-dpr="2"] .fontBig {
+  font-size: 30px;
+}
+[data-dpr="3"] .fontBig {
+  font-size: 46px;
+}
 /*公用模块*/
 .hr {
   height: .3rem;
