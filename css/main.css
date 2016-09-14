@@ -3,10 +3,10 @@
   font-size: 16px;
 }
 [data-dpr="2"] .fontBig {
-  font-size: 30px;
+  font-size: 32px;
 }
 [data-dpr="3"] .fontBig {
-  font-size: 46px;
+  font-size: 48px;
 }
 /*公用模块*/
 .hr {
