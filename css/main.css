@@ -89,6 +89,7 @@
   height: 1.25rem;
   width: 100%;
   margin-bottom: .3rem;
+  background: #2a2a67;
 }
 .nav_item {
   flex: 1;
