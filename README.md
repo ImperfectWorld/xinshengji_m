@@ -1,7 +1,15 @@
 # xingshengji
 --
 一个移动端小项目，利用一些新的技术解决方案处理移动端常见问题。
-[![Travis](https://img.shields.io/badge/node-4.x-green.svg)]
+<p>
+![Travis](https://img.shields.io/badge/node-v4.x-green.svg)
+![Travis](https://img.shields.io/badge/npm-v2.15.9-blue.svg)
+![Travis](https://img.shields.io/badge/fis3-v3.0.0-blue.svg)
+![Travis](https://img.shields.io/badge/LESS-webstorm11-blue.svg)
+![Travis](https://img.shields.io/badge/standard-BEM-blue.svg)
+
+</p>
+
 
 #方案
 
