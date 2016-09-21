@@ -9,17 +9,21 @@
 [![Travis](https://img.shields.io/badge/BEM-standard-blue.svg)]()
 
 
-##必要条件
+###Table of Contents 目录
+***
+* 必要条件
+* 技术方案
+* 项目发布目录规范
+
+
+
+###必要条件
 ***
 * Node 版本要求 0.8.x，0.10.x, 0.12.x，4.x，6.x，不在此列表中的版本不予支持。最新版本 node 支持会第一时间跟进，支持后更新支持列表。
 * fis3
 * npm
 * LESS解析
 
-
-##方案
-
->###新技术应用
 
 ###技术方案
 ***
